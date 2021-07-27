@@ -1,5 +1,8 @@
 _repo: This-World-is-Ours_65874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65874-h/images/cover.jpg
 creator:
   author:
     agent_name: Petaja, Emil
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53240
     wikipedia: https://en.wikipedia.org/wiki/Emil_Petaja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65874#This-World-is-Ours
 gutenberg_issued: '2021-07-19'
 gutenberg_type: Text
 identifiers:
