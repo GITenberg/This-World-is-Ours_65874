@@ -1,0 +1,24 @@
+_repo: This-World-is-Ours_65874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petaja, Emil
+    alias: Petaja, Emil Theodore
+    birthdate: 1915
+    deathdate: 2000
+    gutenberg_agent_id: '53240'
+    url: http://www.gutenberg.org/2009/agents/53240
+    wikipedia: https://en.wikipedia.org/wiki/Emil_Petaja
+description: ''
+gutenberg_issued: '2021-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: This World is Ours!
+url: http://www.gutenberg.org/ebooks/65874
